@@ -6,7 +6,7 @@ mapping in Dibrugarh, Assam, India. It combines Sentinel-1 SAR backscatter
 change, terrain variables and regional rainfall indicators in a scientific
 dashboard.
 
-> **Important:** This is an independent research prototype, not an official
+> **Important:** This is an academic research prototype, not an official
 > ISRO product, an operational flood forecast, or an emergency-warning system.
 > Satellite-derived candidate pixels are not equivalent to verified floodwater.
 
