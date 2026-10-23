@@ -1,0 +1,7 @@
+metric,value
+candidate_pixels,25234
+reference_pixels,216152
+overlap_pixels,25234
+candidate_overlap_percent,100.0000
+reference_overlap_percent,11.6742
+intersection_over_union_percent,11.6742
